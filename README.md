@@ -1,4 +1,4 @@
-# 👨‍💻 Paulo Henrique | Developer in Progress
+ Paulo Henrique | Developer in Progress
 
 ```javascript
 const paulo = {
